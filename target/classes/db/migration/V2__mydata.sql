@@ -1,0 +1,1 @@
+INSERT INTO USERS (ID, USERID, Name) VALUES ('3', '300', 'Vijay');
